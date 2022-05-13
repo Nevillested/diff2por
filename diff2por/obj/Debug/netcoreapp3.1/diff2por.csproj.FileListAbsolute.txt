@@ -1,0 +1,13 @@
+C:\Users\Van\source\repos\diff2por\diff2por\bin\Debug\netcoreapp3.1\diff2por.exe
+C:\Users\Van\source\repos\diff2por\diff2por\bin\Debug\netcoreapp3.1\diff2por.deps.json
+C:\Users\Van\source\repos\diff2por\diff2por\bin\Debug\netcoreapp3.1\diff2por.runtimeconfig.json
+C:\Users\Van\source\repos\diff2por\diff2por\bin\Debug\netcoreapp3.1\diff2por.runtimeconfig.dev.json
+C:\Users\Van\source\repos\diff2por\diff2por\bin\Debug\netcoreapp3.1\diff2por.dll
+C:\Users\Van\source\repos\diff2por\diff2por\bin\Debug\netcoreapp3.1\diff2por.pdb
+C:\Users\Van\source\repos\diff2por\diff2por\obj\Debug\netcoreapp3.1\diff2por.csproj.AssemblyReference.cache
+C:\Users\Van\source\repos\diff2por\diff2por\obj\Debug\netcoreapp3.1\diff2por.AssemblyInfoInputs.cache
+C:\Users\Van\source\repos\diff2por\diff2por\obj\Debug\netcoreapp3.1\diff2por.AssemblyInfo.cs
+C:\Users\Van\source\repos\diff2por\diff2por\obj\Debug\netcoreapp3.1\diff2por.csproj.CoreCompileInputs.cache
+C:\Users\Van\source\repos\diff2por\diff2por\obj\Debug\netcoreapp3.1\diff2por.dll
+C:\Users\Van\source\repos\diff2por\diff2por\obj\Debug\netcoreapp3.1\diff2por.pdb
+C:\Users\Van\source\repos\diff2por\diff2por\obj\Debug\netcoreapp3.1\diff2por.genruntimeconfig.cache
